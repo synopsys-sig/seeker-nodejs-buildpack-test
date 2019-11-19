@@ -1,0 +1,22 @@
+{
+  "name": "@synopsys-sig/seeker",
+  "version": "1.1.0",
+  "description": "test package for the nodejs buildpack test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/synopsys-sig/seeker-nodejs-buildpack-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/synopsys-sig/seeker-nodejs-buildpack-test/issues"
+  },
+  "homepage": "https://github.com/synopsys-sig/seeker-nodejs-buildpack-test#readme",
+  "dependencies": {
+    "log4js": "4.0.2"
+  }
+}
